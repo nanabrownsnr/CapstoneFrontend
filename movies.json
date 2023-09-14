@@ -1,0 +1,46 @@
+{
+    "movies": [
+    {
+      "id": 1,
+      "Title": "Breaking Bad: The Movie",
+      "price": "15",
+      "showingtime": "12 - 1am GMT",
+      "synopsis": "Everything You Need To Get Anything You Want!\n Free webinar with Dr. Herbert Harris to give you a SUCCESS BOOST.",
+      "imageurl": "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+        {
+      "id": 2,
+      "Title": "Unbreakable",
+      "price": "15",
+      "showingtime": "1 - 2pm GMT",
+      "synopsis": "Everything You Need To Get Anything You Want!\n Free webinar with Dr. Herbert Harris to give you a SUCCESS BOOST.",
+      "imageurl": "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+        {
+      "id": 3,
+      "Title": "John Wick",
+      "price": "15",
+      "showingtime": "2 - 4pm GMT",
+      "synopsis": "Everything You Need To Get Anything You Want!\n Free webinar with Dr. Herbert Harris to give you a SUCCESS BOOST.",
+      "imageurl": "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ],
+    "admins": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "email": "admin@gmail.com",
+      "role": "admin"
+    }
+  ],
+    "users": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "user",
+      "email": "user@gmail.com",
+      "role": "user"
+    }
+  ]
+}
